@@ -205,3 +205,140 @@ ul {
 .testing.box button {
     background-color: #006380;
 }
+
+.about-us {
+    max-width: 1199px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 241px;
+    display: flex;
+}
+
+
+.about-us-info {
+    margin-left: 99px;
+    margin-top: 26px;
+}
+
+.about-us h2 {
+    color: #1E1C31;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin-bottom: 29px;
+    margin-left: 64px;
+
+}
+
+.about-us h3 {
+    color: #1E1C31;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 61px;
+    width: 452px;
+    height: 108px;
+}
+
+.about-us p {
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.42px;
+}
+
+.about-description {
+    width: 498px;
+    height: 121px;
+    margin-top: 55px;
+}
+
+.about-us button {
+    width: 163px;
+    height: 49px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #4270EC;
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    border: none;
+    margin-top: 62px;
+}
+
+.portfolio {
+    max-width: 1199px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 219px;
+}
+
+.portfolio h2 {
+    color: #1E1C31;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+
+.portfolio h3 {
+    color: #1E1C31;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 61px;
+    width: 588px;
+    height: 54px;
+}
+
+.portfolio p {
+    color: rgba(0, 0, 0, 0.50);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0.42px;
+}
+
+.portfolio-header {
+    display: flex;
+    margin-bottom: 107px;
+}
+
+.portfolio-header-left {
+    width: 100%;
+}
+
+.portfolio-description {
+    width: 526px;
+    margin-top: 13px;
+    margin-bottom: 17px;
+}
+
+.portfolio a {
+    color: #4270EC;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0.84px;
+    text-transform: uppercase;
+}
+
+.portfolio-header-right {}
+
+.portfolio-bady {}
