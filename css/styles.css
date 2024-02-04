@@ -192,10 +192,10 @@ ul {
     padding-left: 20px;
 }
 
-.footer-main {
+.our_skills {
     justify-content: space-between;
     box-sizing: content-box;
-    padding: 114px;
+    padding-top: 114px;
     height: 98px;
     width: 1179px;
     display: flex;
